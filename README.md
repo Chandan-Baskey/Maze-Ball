@@ -46,7 +46,7 @@ The game uses Unity's **Universal Render Pipeline (URP)** for polished visuals w
 
 ## Game Main Menu
 
-![App Screenshot]([https://dummyimage.com/468x300?text=App+Screenshot+Here](https://github.com/Chandan-Baskey/Maze-Ball/blob/9e6c870df03ecf8766b614f6a0dc4937da6b6b64/main-menu.jpg)
+![image alt](https://github.com/Chandan-Baskey/Maze-Ball/blob/9e6c870df03ecf8766b614f6a0dc4937da6b6b64/main-menu.jpg)
 
 
 ## ✨ Features
