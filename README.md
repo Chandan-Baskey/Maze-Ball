@@ -464,7 +464,7 @@ All packages are managed via the **Unity Package Manager** and are included in t
 
 **Your Name**  
 📧 your@email.com  
-🌐 [github.com/yourusername](https://github.com/yourusername)
+🌐 [https://github.com/yourusername](https://github.com/Chandan-Baskey)
 
 ---
 
