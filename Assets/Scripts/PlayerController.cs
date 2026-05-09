@@ -1,4 +1,4 @@
-using System.Collections;
+ï»¿using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
@@ -41,7 +41,7 @@ public class PlayerController : MonoBehaviour
         _desiredRotation = _t.localRotation;
     }
 
-    // Update is called once per frame — use for mouse input
+    // Update is called once per frame ï¿½ use for mouse input
     void Update()
     {
         if (Input.GetMouseButton(0))

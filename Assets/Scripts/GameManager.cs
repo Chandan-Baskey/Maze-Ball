@@ -18,7 +18,7 @@ public class GameManager : MonoBehaviour
     public TextMeshProUGUI timerText;
 
     public GameObject timeText;
-    
+
     public int currentScene;
     public int nextScene;
     // Start is called before the first frame update
@@ -56,12 +56,12 @@ public class GameManager : MonoBehaviour
         player.enabled = false;
         ball.SetActive(false);
     }
-    
+
     public void TimeText()
     {
         timeText.SetActive(false);
     }
-    
+
 
     public void RestartGame()
     {
